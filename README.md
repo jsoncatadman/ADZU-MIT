@@ -1,2 +1,5 @@
-# ADZU-MIT
-Projects Done During MIT time
+# Grad-School-Projects
+Projects Done During Graduate School
+Uploaded this projects to help others
+
+BY: JAC
