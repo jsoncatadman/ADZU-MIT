@@ -1,5 +1,4 @@
 # Grad-School-Projects
-Projects Done During Graduate School
-Uploaded this projects to help others
+Projects Done During Graduate School.
 
 BY: JAC
